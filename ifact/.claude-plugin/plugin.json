@@ -1,0 +1,23 @@
+{
+  "author": {
+    "email": "support@ifact.net",
+    "name": "VIEW TECH LTD",
+    "url": "https://ifact.net"
+  },
+  "description": "Make interfaces, landing pages, posters, slides, docs and sheets on ifact, an infinite canvas you share with AI agents: see every board appear, click through it, comment and compare versions.",
+  "homepage": "https://ifact.net/docs",
+  "keywords": [
+    "design",
+    "canvas",
+    "prototype",
+    "ui",
+    "slides",
+    "docs",
+    "sheets",
+    "collaboration"
+  ],
+  "license": "MIT",
+  "name": "ifact",
+  "privacyPolicyUrl": "https://ifact.net/privacy",
+  "version": "1.0.3"
+}

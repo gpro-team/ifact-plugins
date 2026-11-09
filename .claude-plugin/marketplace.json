@@ -1,0 +1,15 @@
+{
+  "description": "The ifact plugin: design on a canvas you share with AI agents",
+  "name": "ifact",
+  "owner": {
+    "email": "support@ifact.net",
+    "name": "VIEW TECH LTD"
+  },
+  "plugins": [
+    {
+      "description": "Make interfaces, landing pages, posters, slides, docs and sheets on ifact, an infinite canvas you share with AI agents: see every board appear, click through it, comment and compare versions.",
+      "name": "ifact",
+      "source": "./ifact"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ifact": {
+      "type": "http",
+      "url": "https://ifact.net/mcp"
+    }
+  }
+}
