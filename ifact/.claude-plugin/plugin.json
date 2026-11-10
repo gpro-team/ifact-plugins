@@ -5,7 +5,9 @@
     "url": "https://ifact.net"
   },
   "description": "Make interfaces, landing pages, posters, slides, docs and sheets on ifact, an infinite canvas you share with AI agents: see every board appear, click through it, comment and compare versions.",
-  "homepage": "https://ifact.net/docs",
+  "displayName": "ifact",
+  "documentationUrl": "https://ifact.net/docs",
+  "homepage": "https://ifact.net",
   "keywords": [
     "design",
     "canvas",
@@ -19,5 +21,8 @@
   "license": "MIT",
   "name": "ifact",
   "privacyPolicyUrl": "https://ifact.net/privacy",
+  "repository": "https://github.com/gpro-team/ifact-plugins",
+  "supportUrl": "mailto:support@ifact.net",
+  "termsOfServiceUrl": "https://ifact.net/terms",
   "version": "1.0.3"
 }
